@@ -1,0 +1,14 @@
+{
+  "name": "jwt_test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "kos_andrey",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
